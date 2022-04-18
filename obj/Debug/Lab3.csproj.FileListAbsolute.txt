@@ -1,0 +1,21 @@
+D:\Visual Studio 2019\project\Lab3\bin\Lab3.dll.config
+D:\Visual Studio 2019\project\Lab3\bin\Lab3.dll
+D:\Visual Studio 2019\project\Lab3\bin\Lab3.pdb
+D:\Visual Studio 2019\project\Lab3\obj\Debug\Lab3.csproj.CoreCompileInputs.cache
+D:\Visual Studio 2019\project\Lab3\obj\Debug\Lab3.dll
+D:\Visual Studio 2019\project\Lab3\obj\Debug\Lab3.pdb
+D:\Visual Studio 2019\project\Lab3\obj\Debug\Lab3.csproj.AssemblyReference.cache
+D:\Смітник\ДЗ\C#\Lab3_Y\Lab3\bin\Lab3.dll
+D:\Смітник\ДЗ\C#\Lab3_Y\Lab3\bin\Lab3.pdb
+D:\Смітник\ДЗ\C#\Lab3_Y\Lab3\obj\Debug\Lab3.csproj.AssemblyReference.cache
+D:\Смітник\ДЗ\C#\Lab3_Y\Lab3\obj\Debug\Lab3.csproj.CoreCompileInputs.cache
+D:\Смітник\ДЗ\C#\Lab3_Y\Lab3\obj\Debug\Lab3.dll
+D:\Смітник\ДЗ\C#\Lab3_Y\Lab3\obj\Debug\Lab3.pdb
+D:\Смітник\ДЗ\C#\Lab3_Y\Lab3\bin\Lab3.dll.config
+D:\Смітник\ДЗ\C#\Lab3\Lab3\bin\Lab3.dll.config
+D:\Смітник\ДЗ\C#\Lab3\Lab3\bin\Lab3.dll
+D:\Смітник\ДЗ\C#\Lab3\Lab3\bin\Lab3.pdb
+D:\Смітник\ДЗ\C#\Lab3\Lab3\obj\Debug\Lab3.csproj.AssemblyReference.cache
+D:\Смітник\ДЗ\C#\Lab3\Lab3\obj\Debug\Lab3.csproj.CoreCompileInputs.cache
+D:\Смітник\ДЗ\C#\Lab3\Lab3\obj\Debug\Lab3.dll
+D:\Смітник\ДЗ\C#\Lab3\Lab3\obj\Debug\Lab3.pdb
